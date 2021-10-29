@@ -11,7 +11,7 @@ PATH = "C:\Program Files (x86)\chromedriver.exe"
 Timer = 5 #(3 seconds)
 
 #youtube link
-link = 'https://www.youtube.com/watch?v=A_Z3DmXtyc4'
+link = 'ENTER LINK HERE'
 
 #numer of views
 views = 200
